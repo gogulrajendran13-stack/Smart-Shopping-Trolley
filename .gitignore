@@ -1,0 +1,27 @@
+
+# Private configuration
+secrets.h
+**/secrets.h
+.env
+.env.*
+
+# Arduino build files
+build/
+*.elf
+*.hex
+*.bin
+*.map
+*.o
+
+# IDE files
+.idea/
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.bak
